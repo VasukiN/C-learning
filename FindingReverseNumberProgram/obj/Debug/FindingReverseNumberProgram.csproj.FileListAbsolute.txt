@@ -1,0 +1,8 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\bin\Debug\FindingReverseNumberProgram.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\bin\Debug\FindingReverseNumberProgram.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\bin\Debug\FindingReverseNumberProgram.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\obj\Debug\FindingReverseNumberProgram.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\obj\Debug\FindingReverseNumberProgram.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\bin\Debug\ReverseNumber.dll
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\bin\Debug\ReverseNumber.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\FindingReverseNumberProgram\obj\Debug\FindingReverseNumberProgram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\bin\Debug\Enums_example.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\bin\Debug\Enums_example.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\bin\Debug\Enums_example.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\obj\Debug\Enums_example.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\obj\Debug\Enums_example.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Enums_example\Enums_example\obj\Debug\Enums_example.pdb

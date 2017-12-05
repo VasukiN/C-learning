@@ -1,0 +1,4 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\ReverseNumber\bin\Debug\ReverseNumber.dll
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\ReverseNumber\obj\Debug\ReverseNumber.dll
+C:\Users\Vasuki\Documents\C#_learningprograms\FindingReverseNumberProgram\ReverseNumber\obj\Debug\ReverseNumber.pdb

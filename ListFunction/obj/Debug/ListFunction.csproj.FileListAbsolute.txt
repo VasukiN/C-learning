@@ -1,0 +1,6 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\obj\Debug\ListFunction.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\bin\Debug\ListFunction.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\bin\Debug\ListFunction.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\bin\Debug\ListFunction.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\obj\Debug\ListFunction.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\dictionary_program\ListFunction\obj\Debug\ListFunction.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\bin\Debug\Encapsulation_part.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\bin\Debug\Encapsulation_part.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\bin\Debug\Encapsulation_part.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\obj\Debug\Encapsulation_part.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\obj\Debug\Encapsulation_part.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Encapsulation_part\Encapsulation_part\obj\Debug\Encapsulation_part.pdb

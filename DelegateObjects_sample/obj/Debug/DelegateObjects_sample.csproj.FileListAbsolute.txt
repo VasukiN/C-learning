@@ -1,0 +1,6 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\bin\Debug\DelegateObjects_sample.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\bin\Debug\DelegateObjects_sample.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\bin\Debug\DelegateObjects_sample.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\obj\Debug\DelegateObjects_sample.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\obj\Debug\DelegateObjects_sample.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\DelegateObjects_sample\DelegateObjects_sample\obj\Debug\DelegateObjects_sample.pdb

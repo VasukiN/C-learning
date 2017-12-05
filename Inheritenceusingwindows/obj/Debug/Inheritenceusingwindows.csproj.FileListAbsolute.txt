@@ -1,0 +1,4 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\Inheritenceusingwindows\Inheritenceusingwindows\obj\Debug\Inheritenceusingwindows.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\Inheritenceusingwindows\Inheritenceusingwindows\obj\Debug\Inheritenceusingwindows.A.resources
+C:\Users\Vasuki\Documents\C#_learningprograms\Inheritenceusingwindows\Inheritenceusingwindows\obj\Debug\Inheritenceusingwindows.Properties.Resources.resources
+C:\Users\Vasuki\Documents\C#_learningprograms\Inheritenceusingwindows\Inheritenceusingwindows\obj\Debug\Inheritenceusingwindows.csproj.GenerateResource.Cache

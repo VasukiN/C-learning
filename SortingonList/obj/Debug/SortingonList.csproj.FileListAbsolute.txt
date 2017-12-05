@@ -1,0 +1,5 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\SortingonList\SortingonList\bin\Debug\SortingonList.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\SortingonList\SortingonList\bin\Debug\SortingonList.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\SortingonList\SortingonList\bin\Debug\SortingonList.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\SortingonList\SortingonList\obj\Debug\SortingonList.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\SortingonList\SortingonList\obj\Debug\SortingonList.pdb

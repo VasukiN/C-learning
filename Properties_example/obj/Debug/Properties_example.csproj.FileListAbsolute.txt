@@ -1,0 +1,5 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\Properties_example\Properties_example\bin\Debug\Properties_example.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\Properties_example\Properties_example\bin\Debug\Properties_example.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Properties_example\Properties_example\bin\Debug\Properties_example.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\Properties_example\Properties_example\obj\Debug\Properties_example.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\Properties_example\Properties_example\obj\Debug\Properties_example.pdb

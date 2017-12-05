@@ -1,0 +1,9 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\bin\Debug\SecondPractice.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\bin\Debug\SecondPractice.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\bin\Debug\SecondPractice.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.Form1.resources
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.Properties.Resources.resources
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.csproj.GenerateResource.Cache
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\SecondPractice\SecondPractice\obj\Debug\SecondPractice.pdb

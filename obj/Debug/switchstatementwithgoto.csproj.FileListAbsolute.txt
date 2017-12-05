@@ -1,0 +1,5 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\switchstatementwithgoto\bin\Debug\switchstatementwithgoto.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\switchstatementwithgoto\bin\Debug\switchstatementwithgoto.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\switchstatementwithgoto\bin\Debug\switchstatementwithgoto.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\switchstatementwithgoto\obj\Debug\switchstatementwithgoto.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\switchstatementwithgoto\obj\Debug\switchstatementwithgoto.pdb

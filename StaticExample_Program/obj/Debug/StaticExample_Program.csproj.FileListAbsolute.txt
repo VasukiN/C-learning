@@ -1,0 +1,6 @@
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\bin\Debug\StaticExample_Program.exe.config
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\bin\Debug\StaticExample_Program.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\bin\Debug\StaticExample_Program.pdb
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\obj\Debug\StaticExample_Program.csprojResolveAssemblyReference.cache
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\obj\Debug\StaticExample_Program.exe
+C:\Users\Vasuki\Documents\C#_learningprograms\StaticExample_Program\StaticExample_Program\obj\Debug\StaticExample_Program.pdb
